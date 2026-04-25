@@ -1,0 +1,5 @@
+wrangler.jsonc
+node_modules
+.env
+.env.local
+.git
